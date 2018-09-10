@@ -1,0 +1,89 @@
+[{
+      "id": "home",
+      "headerRegion": "defaultHeader",
+      "leftRegion": "defaultNav",
+	  "centerRegion": "homePage",
+	  "rightRegion":"default",
+	  "footerRegion":"defaultFooter"
+    },
+    {
+      "id": "sports",
+      "headerRegion": "sportsHeader",
+      "leftRegion": "sportsNav",
+	  "centerRegion": "sportsHome",
+	  "rightRegion":"betslip",
+	  "footerRegion":"sportsFooter"
+    },
+	{
+      "id": "casino",
+      "headerRegion": "casinoHeader",
+      "leftRegion": "casinoNav",
+	  "centerRegion": "casinoHome",
+	  "rightRegion":"jackpots",
+	  "footerRegion":"casinoFooter"
+    },
+	{
+      "id": "poker",
+      "headerRegion": "pokerHeader",
+      "leftRegion": "pokerNav",
+	  "centerRegion": "pokerHome",
+	  "rightRegion":"tournaments",
+	  "footerRegion":"pokerFooter"
+    },
+	{
+      "id": "articles",
+      "headerRegion": "defaultHeader",
+      "leftRegion": "defaultNav",
+	  "centerRegion": "articlesHome",
+	  "rightRegion":"default",
+	  "footerRegion":"defaultFooter"
+    },
+	{
+      "id": "promotions",
+      "headerRegion": "defaultHeader",
+      "leftRegion": "defaultNav",
+	  "centerRegion": "promotionsHome",
+	  "rightRegion":"default",
+	  "footerRegion":"defaultFooter"
+    },
+	{
+      "id": "tennis",
+      "headerRegion": "sportsHeader",
+      "leftRegion": "sportsNav",
+	  "centerRegion": "tennisHome",
+	  "rightRegion":"betslip",
+	  "footerRegion":"sportsFooter"
+    },
+	{
+      "id": "slots",
+      "headerRegion": "casinoHeader",
+      "leftRegion": "casinoNav",
+	  "centerRegion": "slotsHome",
+	  "rightRegion":"slotsJackpots",
+	  "footerRegion":"casinoFooter"
+    },
+	{
+      "id": "holdem",
+      "headerRegion": "pokerHeader",
+      "leftRegion": "pokerNav",
+	  "centerRegion": "holdemHome",
+	  "rightRegion":"tournaments",
+	  "footerRegion":"pokerFooter"
+    },
+	{
+      "id": "login",
+      "headerRegion": "defaultHeader",
+      "leftRegion": "defaultNav",
+	  "centerRegion": "loginPage",
+	  "rightRegion":"default",
+	  "footerRegion":"defaultFooter"
+    },
+	{
+      "id": "admin",
+      "headerRegion": "adminHeader",
+      "leftRegion": "adminNav",
+	  "centerRegion": "adminPage",
+	  "rightRegion":"adminRight",
+	  "footerRegion":"defaultFooter"
+    }
+ ]
